@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Joan Wang's CV
 ---
 # Joan Wang
